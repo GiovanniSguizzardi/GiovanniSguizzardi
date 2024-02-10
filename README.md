@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @GiovanniSguizzardi
-- 🌱 Estou cursando ADS (Analíse e Desenvolvimento de Sistemas na FIAP, indo para o ultimo ano de Tecnólogo!)
+- 🌱 Estou cursando ADS (Analíse e Desenvolvimento de Sistemas na FIAP, indo para o ultimo ano de Tecnólogo)
 - 💞️ Estou aberto a propostas de trabalho...
 - 📫 Meu contato: giovanni.sguiconde@gmail.com
 
