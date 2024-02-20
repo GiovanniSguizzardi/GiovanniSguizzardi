@@ -1,3 +1,5 @@
+### :face-smiling: About me:
+
 - 👋 Olá, eu sou @GiovanniSguizzardi;
 - 🌱 Estou cursando A.D.S (Analíse e Desenvolvimento de Sistemas na FIAP);
 - 📫 Meu contato: giovanni.sguiconde@gmail.com
