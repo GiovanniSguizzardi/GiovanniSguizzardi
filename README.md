@@ -1,4 +1,4 @@
-### :face-smiling: About me:
+### :accessibility: About me:
 
 - 👋 Olá, eu sou @GiovanniSguizzardi;
 - 🌱 Estou cursando A.D.S (Analíse e Desenvolvimento de Sistemas na FIAP);
