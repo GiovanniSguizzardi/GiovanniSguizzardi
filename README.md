@@ -19,5 +19,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
 </div>
 
-### :fire: Some Stats:
+### :fire: Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GiovanniSguizzardi&theme=dark&background=000000)](https://git.io/streak-stats)
