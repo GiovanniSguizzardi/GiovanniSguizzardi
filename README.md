@@ -1,9 +1,8 @@
 ### :accessibility: About me:
 
-- 👋 Olá, eu sou @GiovanniSguizzardi;
+- 👋 Olá, eu sou o Giovanni :);
 - 🌱 Estou cursando A.D.S (Analíse e Desenvolvimento de Sistemas na FIAP);
 - 📫 Meu contato: giovanni.sguiconde@gmail.com
-- 💥 Meu repositorio: https://gibas.notion.site/Meu-Reposit-rio-6a4cc407f7634576b1c7d2c1b253e2ab
 
 
 ### :hammer_and_wrench: Languages and Tools:
