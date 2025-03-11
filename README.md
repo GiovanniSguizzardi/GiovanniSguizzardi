@@ -1,29 +1,48 @@
 ![Sem título](https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1)
+<h1 align="center">👋 Olá, eu sou o Giovanni!</h1>
 
+<p align="center">
+  📘 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente cursando <b>Sistemas de Informação</b>.
+  <br>
+  📫 <b>Contato:</b> giovanni.sguiconde@gmail.com
+</p>
 
-### 🤗 Sobre mim:
+---
 
-- 👋 Olá, eu sou o Giovanni, seja bem-vindx ao meu perfil! ;
-- 📘 Sou formado em A.D.S ( Analíse e Desenvolvimento de Sistemas ) e atualmente cursando S.I ( Sistemas de Informação ) ;
-- 📫 Meu contato: giovanni.sguiconde@gmail.com
+### 🚀 Tecnologias e Ferramentas:
+<div align="center">
 
+#### Linguagens de Programação:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="70" height="70" style="margin: 10px;"/>
 
-### :hammer_and_wrench: Linguagens e Ferramentas que sei utilizar:
+#### Banco de Dados:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://dbdb.io/media/logos/h2-logo.svg" width="70" height="70" style="margin: 10px;"/>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
+#### Frameworks & Ferramentas:
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="70" height="70" style="margin: 10px;"/>
+
 </div>
 
-### 👀 Alguns Insights:
-![GiovanniSguizzardi's Stats](https://github-readme-stats.vercel.app/api?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-![GiovanniSguizzardi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&layout=compact)
+### 📊 Estatísticas do GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&count_private=true" width="450px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&layout=compact" width="350px"/>
+</div>
+
+---
