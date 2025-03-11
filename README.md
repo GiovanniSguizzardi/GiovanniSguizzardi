@@ -1,6 +1,6 @@
 ### 🤗 Sobre mim:
 
-- 👋 Olá, eu sou o Giovanni, seja bem-vindx ao meu perfil!;
+- 👋 Olá, eu sou o Giovanni, seja bem-vindx ao meu perfil! ;
 - 📘 Sou formado em A.D.S ( Analíse e Desenvolvimento de Sistemas ) e atualmente cursando S.I ( Sistemas de Informação ) ;
 - 📫 Meu contato: giovanni.sguiconde@gmail.com
 
@@ -22,4 +22,5 @@
 
 ### 👀 Alguns Insights:
 ![GiovanniSguizzardi's Stats](https://github-readme-stats.vercel.app/api?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ![GiovanniSguizzardi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&layout=compact)
