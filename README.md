@@ -1,4 +1,5 @@
-![Sem título](https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1)
+<img src="https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1" width="" height=""/>
+
 <h1 align="center">👋 Olá, eu sou o Giovanni!</h1>
 
 <p align="center">
