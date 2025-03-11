@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/72fbb023-862b-47fc-9ae2-f681d6cb91cf)
+
+
 ### 🤗 Sobre mim:
 
 - 👋 Olá, eu sou o Giovanni, seja bem-vindx ao meu perfil! ;
