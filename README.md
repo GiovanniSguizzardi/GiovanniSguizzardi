@@ -1,11 +1,11 @@
-### :accessibility: About me:
+### 🤗 Sobre mim:
 
-- 👋 Olá, eu sou o Giovanni :);
-- 🌱 Estou cursando A.D.S (Analíse e Desenvolvimento de Sistemas na FIAP);
+- 👋 Olá, eu sou o Giovanni, seja bem-vindx ao meu perfil!;
+- 📘 Sou formado em A.D.S ( Analíse e Desenvolvimento de Sistemas ) e atualmente cursando S.I ( Sistemas de Informação ) ;
 - 📫 Meu contato: giovanni.sguiconde@gmail.com
 
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Linguagens e Ferramentas que sei utilizar:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -20,5 +20,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
 </div>
 
-### :fire: Stats:
+### 👀 Alguns Insights:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GiovanniSguizzardi&theme=github-dark-blue)](https://git.io/streak-stats)
