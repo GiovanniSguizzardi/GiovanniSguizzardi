@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/72fbb023-862b-47fc-9ae2-f681d6cb91cf)
+![Sem título](https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1)
 
 
 ### 🤗 Sobre mim:
