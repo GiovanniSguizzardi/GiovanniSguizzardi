@@ -21,4 +21,5 @@
 </div>
 
 ### 👀 Alguns Insights:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GiovanniSguizzardi&theme=github-dark-blue)](https://git.io/streak-stats)
+![GiovanniSguizzardi's Stats](https://github-readme-stats.vercel.app/api?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GiovanniSguizzardi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&layout=compact)
