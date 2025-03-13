@@ -19,10 +19,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
 
 #### Banco de Dados:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://dbdb.io/media/logos/h2-logo.svg" width="70" height="70" style="margin: 10px;"/>
 
 #### Frameworks & Ferramentas:
@@ -30,12 +33,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="70" height="70" style="margin: 10px;"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="70" height="70" style="margin: 10px;"/>
 </div>
 
 ---
