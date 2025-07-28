@@ -10,6 +10,7 @@
   📘 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente cursando <b>Sistemas de Informação</b>.
   <br>
   📫 <b>Contato:</b> giovanni.sguiconde@gmail.com
+  <br>
 </p>
 
 ---
