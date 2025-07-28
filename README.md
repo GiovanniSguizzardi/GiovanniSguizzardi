@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1" width="" height=""/>
 
-<h1 align="center">👋 Olá, eu sou o Giovanni!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Giovanni!" alt="Typing SVG" /></a>
 
 <p align="center">
   📘 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente cursando <b>Sistemas de Informação</b>.
