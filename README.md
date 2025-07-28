@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/0d2c4575-abbc-4262-af20-88bae490b5f1" width="" height=""/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hello,%20World&reversal=true&animation=fadeIn&textBg=false"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Giovanni!" alt="Typing SVG" /></a>
