@@ -31,7 +31,6 @@
 #### Banco de Dados:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="70" height="70" style="margin: 10px;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://dbdb.io/media/logos/h2-logo.svg" width="70" height="70" style="margin: 10px;"/>
 
 #### Frameworks & Ferramentas:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="70" height="70" style="margin: 10px;"/>
