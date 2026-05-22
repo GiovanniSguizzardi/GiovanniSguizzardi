@@ -47,11 +47,3 @@
 </div>
 
 ---
-
-### 📊 Estatísticas do GitHub:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&count_private=true" width="450px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniSguizzardi&theme=dark&show_icons=true&hide_border=true&layout=compact" width="350px"/>
-</div>
-
----
