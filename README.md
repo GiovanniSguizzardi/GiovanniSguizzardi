@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=400&color=dark&text=Hello,%20world&reversal=false&animation=fadeIn&textBg=false&section=header&fontSize=90&fontAlign=50&fontColor=FFFF"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&random=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Giovanni!" alt="Typing SVG" /></a>
-</div>
+</div> -->
 
 <p align="center">
   📘 Formado em <b>Análise e Desenvolvimento de Sistemas</b> e atualmente cursando <b>Sistemas de Informação</b>.
